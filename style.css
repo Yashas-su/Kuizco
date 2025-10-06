@@ -1,0 +1,46 @@
+body{
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+}
+
+.title{
+margin:250px;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+}
+
+.ibtn{
+     padding: 10px;
+     margin: 5px;
+     background-color: rgba(14, 14, 55, 0.863);
+     border-radius: 20px;
+     color: bisque;
+}
+
+.registraion{
+    margin-left:300px;
+    padding: 250px;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+}
+
+.reg{
+    margin-bottom: 10px;
+}
+
+.quiz{
+ margin-left:500px;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+}
+
+.thenku{
+margin:250px;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+}
